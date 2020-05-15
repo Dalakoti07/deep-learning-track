@@ -1,0 +1,4 @@
+*.pyc
+*.idea
+/handDetectionEnv
+/__pycache__
